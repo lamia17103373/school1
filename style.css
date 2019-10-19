@@ -1,0 +1,16 @@
+h1{
+color: blue;
+font-size: 20px;
+text-align: center;
+}
+.color_selector{
+color:green;
+text-align: right;
+
+}
+p{
+    color:blueviolet;
+}
+.img{
+    text-align: center;
+}
